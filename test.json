@@ -2,12 +2,12 @@
 {
     "templateids": [
         {
-            "TemplateName" : "Template_Health",
-            "TemplateID"  : "0TTB0000000wZlN"
+            "TemplateName" : "SFI_ICL245",
+            "TemplateID"  : "0TT3s000006RFZc"
         },
         {
-            "TemplateName" : "Template_Insurance",
-            "TemplateID"  : "0TTB0000000wBC"
+            "TemplateName" : "SFI_ICL235",
+            "TemplateID"  : "0TT1I000006m2VI"
         }
     ]
 }
