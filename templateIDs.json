@@ -64,10 +64,6 @@
         {
             "TemplateName" : "SFI_OMS",
             "TemplateID"  : "0TT5e000008nd3p"
-        },
-        {
-            "TemplateName" : "SFI_TST",
-            "TemplateID"  : "0TT5e000008nd3p"
         }
     ]
 }
