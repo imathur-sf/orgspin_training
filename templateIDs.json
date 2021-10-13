@@ -58,6 +58,10 @@
             "TemplateID"  : "0TT1I000006m2VI"
         },
         {
+            "TemplateName" : "SFI_ICM_DEV",
+            "TemplateID"  : "0TT3s000005rTOo"
+        },
+        {
             "TemplateName" : "SFI_ICM",
             "TemplateID"  : "0TT3s000005rTG9"
         },
