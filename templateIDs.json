@@ -15,11 +15,11 @@
         },
         {
             "TemplateName" : "SFI_IPQC",
-            "TemplateID"  : "0TT5f00000Bg26g"
+            "TemplateID"  : "0TT8Z000002vliA"
         },
         {
             "TemplateName" : "SFI_IPQ",
-            "TemplateID"  : "0TT5f00000Bg26g"
+            "TemplateID"  : "0TT8Z000002vliA"
         },
         {
             "TemplateName" : "SFI_IPQ_ILT",
@@ -43,7 +43,7 @@
         },
         {
             "TemplateName" : "SFI_IPQ_DEV",
-            "TemplateID"  : "0TT5f00000Bg26g"
+            "TemplateID"  : "0TT8Z000002vliA"
         },
         {
             "TemplateName" : "SFI_IOM_ADM",
