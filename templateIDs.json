@@ -92,6 +92,18 @@
         {
             "TemplateName" : "SFI_ESM",
             "TemplateID"  : "0TT5f00000BHFsn"
+        },
+        {
+            "TemplateName" : "SFI_IPQ_TH",
+            "TemplateID"  : "0TT2w00000J2tsn"
+        },
+        {
+            "TemplateName" : "SFI_CLM_CME",
+            "TemplateID"  : "0TT8W0000075q9I"
+        },
+        {
+            "TemplateName" : "SFI_CLM_HINS",
+            "TemplateID"  : "0TT3s000006K3lE"
         }
     ]
 }
