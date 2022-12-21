@@ -105,6 +105,11 @@
             "TemplateName" : "SFI_CLM_HINS",
             "TemplateID"  : "0TT3s000006K3lE"
         }
+        ,
+        {
+            "TemplateName" : "SFI_IQE_FSC",
+            "TemplateID"  : "0TT8c00000EziSh"
+        }
     ]
 }
 
