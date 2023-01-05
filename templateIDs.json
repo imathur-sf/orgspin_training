@@ -95,7 +95,7 @@
         },
         {
             "TemplateName" : "SFI_IPQ_TH",
-            "TemplateID"  : "0TT2w00000J2tsn"
+            "TemplateID"  : "0TT2w00000LEkdt"
         },
         {
             "TemplateName" : "SFI_CLM_CME",
@@ -109,7 +109,7 @@
         {
             "TemplateName" : "SFI_IQE_FSC",
             "TemplateID"  : "0TT8c00000EziSh"
-        }
+        } 
     ]
 }
 
