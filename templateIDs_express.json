@@ -2,35 +2,35 @@
     "templateids": [
         {
             "TemplateName" : "SFI_EUC_CAM",
-            "TemplateID"  : "0TT2H000000XigT"
+            "TemplateID"  : "0TTDp000003inZh"
         },
         {
             "TemplateName" : "SFI_EUC_CAM_OSV",
-            "TemplateID"  : "0TT5g00000Yp7Mp"
+            "TemplateID"  : "0TT5g00000ZHlJk"
         },
         {
             "TemplateName" : "SFI_EUC_CCC",
-            "TemplateID"  : "0TT2H000000XigT"
+            "TemplateID"  : "0TTDp000003inZh"
         },
         {
             "TemplateName" : "SFI_EUC_CCC_OSV",
-            "TemplateID"  : "0TT5g00000Yp7Mp"
+            "TemplateID"  : "0TT5g00000ZHlJk"
         },
         {
             "TemplateName" : "SFI_EUC_LAM",
-            "TemplateID"  : "0TT2H000000XigT"
+            "TemplateID"  : "0TTDp000003inZh"
         },
         {
             "TemplateName" : "SFI_EUC_LAM_OSV",
-            "TemplateID"  : "0TT5g00000Yp7Mp"
+            "TemplateID"  : "0TT5g00000ZHlJk"
         },
         {
             "TemplateName" : "SFI_EUC_USP",
-            "TemplateID"  : "0TT2H000000XigT"
+            "TemplateID"  : "0TTDp000003inZh"
         },
         {
             "TemplateName" : "SFI_EUC_USP_OSV",
-            "TemplateID"  : "0TT5g00000Yp7Mp"
+            "TemplateID"  : "0TT5g00000ZHlJk"
         },
         {
             "TemplateName" : "SFI_CC_MSM",
