@@ -110,6 +110,11 @@
             "TemplateName" : "SFI_IQE_FSC",
             "TemplateID"  : "0TT8c00000EhUAW"
         } 
+         ,
+        {
+            "TemplateName" : "SFI_CPQ_TH",
+            "TemplateID"  : "0TT8W000006g1Ch"
+        } 
     ]
 }
 
