@@ -115,6 +115,11 @@
             "TemplateName" : "SFI_CPQ_TH",
             "TemplateID"  : "0TT8W000006g1Ch"
         } 
+         ,
+        {
+            "TemplateName" : "SFI_TH_EPC",
+            "TemplateID"  : "0TT8W000006g1CX"
+        } 
     ]
 }
 
