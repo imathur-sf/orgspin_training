@@ -120,6 +120,16 @@
             "TemplateName" : "SFI_TH_EPC",
             "TemplateID"  : "0TT8W000007akjO"
         } 
+        ,
+        {
+            "TemplateName" : "SFI_EUC_USP_OSR",
+            "TemplateID"  : "0TTHu000005dWgC"
+        } 
+        ,
+        {
+            "TemplateName" : "SFI_EUC_SCW_OSR",
+            "TemplateID"  : "0TTHu000005dWgC"
+        } 
     ]
 }
 
