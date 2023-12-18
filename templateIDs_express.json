@@ -2,7 +2,7 @@
     "templateids": [
         {
             "TemplateName" : "SFI_EUC_CAM",
-            "TemplateID"  : "0TTDp000003ip36"
+            "TemplateID"  : "0TTDp000003ip7T"
         },
         {
             "TemplateName" : "SFI_EUC_CAM_OSV",
@@ -10,7 +10,7 @@
         },
         {
             "TemplateName" : "SFI_EUC_CCC",
-            "TemplateID"  : "0TTDp000003ip36"
+            "TemplateID"  : "0TTDp000003ip7T"
         },
         {
             "TemplateName" : "SFI_EUC_CCC_OSV",
@@ -18,7 +18,7 @@
         },
         {
             "TemplateName" : "SFI_EUC_LAM",
-            "TemplateID"  : "0TTDp000003ip36"
+            "TemplateID"  : "0TTDp000003ip7T"
         },
         {
             "TemplateName" : "SFI_EUC_LAM_OSV",
@@ -26,7 +26,7 @@
         },
         {
             "TemplateName" : "SFI_EUC_USP",
-            "TemplateID"  : "0TTDp000003ip36"
+            "TemplateID"  : "0TTDp000003ip7T"
         },
         {
             "TemplateName" : "SFI_EUC_USP_OSV",
@@ -34,7 +34,7 @@
         },
         {
             "TemplateName" : "SFI_EUC_SCW",
-            "TemplateID"  : "0TTDp000003ip36"
+            "TemplateID"  : "0TTDp000003ip7T"
         },
         {
             "TemplateName" : "SFI_CC_MSM",
@@ -78,11 +78,11 @@
         },
         {
             "TemplateName" : "SFI_EUC_CCC_OSR",
-            "TemplateID"  : "0TTHu000005dWgC"
+            "TemplateID"  : "0TTHr000002DUG5"
         },
         {
             "TemplateName" : "SFI_EUC_USP_OSR",
-            "TemplateID"  : "0TTHu000005dWgC"
+            "TemplateID"  : "0TTHr000002DUG5"
         },
         {
             "TemplateName" : "SFI_EUC_SCW_OSR",
