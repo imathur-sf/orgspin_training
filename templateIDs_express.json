@@ -78,15 +78,15 @@
         },
         {
             "TemplateName" : "SFI_EUC_CCC_OSR",
-            "TemplateID"  : "0TTHr000002DUG5"
+            "TemplateID"  : "0TTHr000002ukJK"
         },
         {
             "TemplateName" : "SFI_EUC_USP_OSR",
-            "TemplateID"  : "0TTHr000002DUG5"
+            "TemplateID"  : "0TTHr000002ukJK"
         },
         {
             "TemplateName" : "SFI_EUC_SCW_OSR",
-            "TemplateID"  : "0TTHu000005dWgC"
+            "TemplateID"  : "0TTHr000002ukJK"
         }
     ]
 }
